@@ -1,5 +1,5 @@
-# Normalizing a Database
-## Database Normalization at Fred's Furniture
+## Normalizing a Database
+### Database Normalization at Fred's Furniture
 
 A new online furniture store named Fred’s Furniture has hired you as their very first data engineer. Congratulations!
 
